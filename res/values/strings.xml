@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Camera</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_ok_text">拍照</string>
+    <string name="btn_open_text">打开照相机</string>
+    <string name="btn_close_text">关闭照相机</string>
 
 </resources>
